@@ -1,4 +1,4 @@
 Demo
 ====
 
-Repository used mostly for demonstrating GitHub API features.
+Repository used in "Git Clone" slide from "Git For Teams" (Lorna Mitchell, February 2014.)
